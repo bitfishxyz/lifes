@@ -1,13 +1,3 @@
-Twitter@
-放一些不足以写成博客但是有价值的东西
+博客放在issues里面，你还可以在下面的地方找到我：
 
-Ingram@
-
-生活记录，互联网上的人生轨迹
-
-豆瓣@
-书影音
-
-
-YouTube@
-
+豆瓣[@bitfish](https://www.douban.com/people/96942615/)
